@@ -8,6 +8,6 @@
 
 ## 心得
 
-自己做完後再去看課程的程式碼,發現他對一些小細節也有做處理(例如:currentTime = 0及e.propertyName)以及他的代碼又更簡潔一些
+自己做完後再去看課程的程式碼,發現他對一些小細節也有做處理(例如:currentTime = 0及e.propertyName)以及他的代碼又更簡潔一些,整體來說讓我覺得學到蠻多東西及概念
 
 [DEMO](https://leowangj.github.io/javascript30/DrumKit/index-START.html)
