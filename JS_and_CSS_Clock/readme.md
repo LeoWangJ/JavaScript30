@@ -1,13 +1,10 @@
-![](https://javascript30.com/images/JS3-social-share.png)
+# JS CSS CLOCK
 
-# JavaScript30
+## 學習到了
 
-Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
+1.transform 的使用方法(rotate控制位子)
 
-Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
+## 心得
 
-## fork原因
-
-將拿來練習原生JS(es6) 預定時間在2017/12/31完成
-
-
+做出來後,發現自己的作品有點瑕疵,像是11:59分要變成12:00時,時針會一次跳一大格。
+後來參考課程的程式碼,發現我少判斷了一個的邏輯(時 -> 分的邏輯,分 ->秒的邏輯),這次課程算蠻簡單!
