@@ -4,7 +4,7 @@
 
 開始日期:2017/11/13
 
-最後更新:2017/11/26
+最後更新:2017/12/4
 
 [30種題目的參考](https://javascript30.com/)
 
@@ -26,4 +26,5 @@ index-FINISHED.html : 作者提供的完整文檔
 |-----|-----|-----|------|-----|-----|
 |1| Drum kit |實作出按下按鈕時,所觸發的效果 |2017/11/13|2017/11/19|[點我](https://leowangj.github.io/javascript30/DrumKit/index-START.html)|
 |2|JS CSS CLOCK|實現一個簡易版的時鐘|2017/11/20|2017/11/26|[點我](https://leowangj.github.io/javascript30/JS_and_CSS_Clock/index-START.html)|
-|3|CSS Variables|拖動bar以控制css變量|2017/11/27|...|...|
+|3|CSS Variables|拖動bar以控制css變量|2017/11/27|2017/12/4|[點我](https://leowangj.github.io/javascript30/CSS%20Variables/index-START.html)|
+|4|Array Cardio|練習array基礎用法|2017/12/4|..|..|
