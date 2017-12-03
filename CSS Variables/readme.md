@@ -4,7 +4,7 @@
 
 css 變數,以及setProperty的用法
 
-可參考這篇[css變數] (https://drafts.csswg.org/css-variables/)
+可參考這篇 [css變數] (https://drafts.csswg.org/css-variables/)
 
 ## 心得
 
