@@ -1,13 +1,9 @@
-![](https://javascript30.com/images/JS3-social-share.png)
+# CSS Variables
 
-# JavaScript30
+## 學習到了
 
-Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
+css 變數,以及setProperty的用法
 
-Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
+## 心得
 
-## fork原因
-
-將拿來練習原生JS(es6) 預定時間在2017/12/31完成
-
-
+第一次知道css能夠使用變數,以前以為只有sass,less才能夠使用css變數
