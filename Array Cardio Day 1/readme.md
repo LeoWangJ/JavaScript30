@@ -1,13 +1,12 @@
-![](https://javascript30.com/images/JS3-social-share.png)
+# Array Cardio Day 1
 
-# JavaScript30
+## 學習到了 
 
-Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
+這次的map,reduce,sort,filter皆有用過
 
-Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
-## fork原因
+## 心得
 
-將拿來練習原生JS(es6) 預定時間在2017/12/31完成
+對於sort的判斷方法還是有些不太能夠理解,return 1, return -1等等..
 
 
