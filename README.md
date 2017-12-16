@@ -28,4 +28,5 @@ index-FINISHED.html : 作者提供的完整文檔
 |2|JS CSS CLOCK|實現一個簡易版的時鐘|2017/11/20|2017/11/26|[點我](https://leowangj.github.io/javascript30/JS_and_CSS_Clock/index-START.html)|
 |3|CSS Variables|拖動bar以控制css變量|2017/11/27|2017/12/4|[點我](https://leowangj.github.io/javascript30/CSS%20Variables/index-START.html)|
 |4|Array Cardio|練習array基礎用法|2017/12/4|2017/12/10|[點我](https://leowangj.github.io/javascript30/Array%20Cardio%20Day%201/index-START.html)|
-|5|Flex Panel Gallery|實現可伸縮的圖片廊|2017/12/11|...|...|
+|5|Flex Panel Gallery|實現可伸縮的圖片廊|2017/12/11|2017/12/17|[點我](https://leowangj.github.io/javascript30/05Flex%20Panel%20Gallery/index-START.html)|
+|6| Type Ahead|類似搜索關鍵字的功能|2017/12/18|...|...|
