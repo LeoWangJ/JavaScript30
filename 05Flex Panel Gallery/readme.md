@@ -1,13 +1,17 @@
-![](https://javascript30.com/images/JS3-social-share.png)
+# Flex Panel Gallery
 
-# JavaScript30
+## 學習到了
 
-Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
+學習到flexbox的用法,以及對於動畫結束後才觸發的事件,也是第一次寫原生的toggle用法
 
-Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
-## fork原因
 
-將拿來練習原生JS(es6) 預定時間在2017/12/31完成
+
+
+## 心得
+
+此次作業比較著重於CSS的部分flexbox,雖然幾個月前有碰過,不過這半年幾乎都在寫JS,CSS基本上很少在寫,所以幾乎都忘記了
+
+該花一點時間回去學習CSS,我認為這樣才是好的前端
 
 
