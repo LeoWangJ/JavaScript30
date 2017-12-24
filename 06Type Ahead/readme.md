@@ -1,13 +1,14 @@
-![](https://javascript30.com/images/JS3-social-share.png)
+# Type Ahead
 
-# JavaScript30
+## 學習到了
 
-Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
+正規化的用法
 
-Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
-## fork原因
+## 心得
 
-將拿來練習原生JS(es6) 預定時間在2017/12/31完成
+對於正規化的使用蠻不熟悉的,所以這次作業正規化的部分幾乎都是參考課程的答案,還有這個[w3c正規化](http://www.w3school.com.cn/jsref/jsref_obj_regexp.asp)
+
+
 
 
