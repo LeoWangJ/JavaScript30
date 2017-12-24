@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Type Ahead 👀</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <form class="search-form">
+    <input type="text" class="search" placeholder="City or State">
+    <ul class="suggestions">
+      <li>Filter for a city</li>
+      <li>or a state</li>
+    </ul>
+  </form>
+<script>
+const endpoint = 'https://gist.githubusercontent.com/Miserlou/c5cd8364bf9b2420bb29/raw/2bf258763cdddd704f8ffd3ea9a3e81d25e2c6f6/cities.json';
+const search = document.querySelector('.search');
+const suggestions = document.querySelector('.suggestions');
+let data =[];
+let view = {
+  init(){
+    fetch(endpoint, {method:"get"})
+    .then(res => res.json())
+    .then(res =>{
+      data.push(...res);
+    })
+    .catch(err =>{
+      console.error(err);
+    })
+    view.bindEvent();
+  },
+  bindEvent(){
+    search.addEventListener('keyup',view.render)
+  },
+  getList(value){
+    return data.filter(item => {
+      const regex = new RegExp(value,'gi');
+      return item.city.match(regex) || item.state.match(regex);
+    })
+  },
+  render(){
+    let items = view.getList(this.value);
+    let html = items.map(item =>{
+      const regex = new RegExp(this.value,'gi');
+      const city = item.city.replace(regex,`<span class="hl">${this.value}</span>`);
+      const state = item.state.replace(regex,`<span class="hl">${this.value}</span>`);
+
+      return `
+          <li>
+              <span class="name">${city},${state}</span>
+              <span class="population">${item.population}</span>
+          </li>
+      `
+    }).join('');
+    suggestions.innerHTML = html;
+  },
+}
+view.init();
+</script>
+  </body>
+</html>
