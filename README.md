@@ -4,7 +4,7 @@
 
 開始日期:2017/11/13
 
-最後更新:2017/12/10
+最後更新:2017/12/24
 
 [30種題目的參考](https://javascript30.com/)
 
@@ -29,4 +29,5 @@ index-FINISHED.html : 作者提供的完整文檔
 |3|CSS Variables|拖動bar以控制css變量|2017/11/27|2017/12/4|[點我](https://leowangj.github.io/javascript30/CSS%20Variables/index-START.html)|
 |4|Array Cardio|練習array基礎用法|2017/12/4|2017/12/10|[點我](https://leowangj.github.io/javascript30/Array%20Cardio%20Day%201/index-START.html)|
 |5|Flex Panel Gallery|實現可伸縮的圖片廊|2017/12/11|2017/12/17|[點我](https://leowangj.github.io/javascript30/05Flex%20Panel%20Gallery/index-START.html)|
-|6| Type Ahead|類似搜索關鍵字的功能|2017/12/18|...|...|
+|6| Type Ahead|類似搜索關鍵字的功能|2017/12/18|2017/12/24|[點我](https://leowangj.github.io/javascript30/06Type%20Ahead/index-START.html)|
+|7|Array Cardio2|練習array用法|2017/12/25|...|...|
