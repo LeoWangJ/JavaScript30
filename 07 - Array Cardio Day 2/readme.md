@@ -1,6 +1,6 @@
 # Array Cardio Day 2
 
-學習到了
+## 學習到了
 
 Array的some,every,find,findIndex 用法
 
@@ -12,7 +12,7 @@ find() => 返回在陣列中找到的第一個相同的資料
 
 findIndex() =>同上,只是返回的是索引值
 
-心得
+## 心得
 
 自己寫的第一版,還是太過直覺性了。看完wes的程式碼,真的是非常簡潔。
 
